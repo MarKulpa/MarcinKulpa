@@ -2,4 +2,6 @@ Zmiana01
 Zmiana2
 Zmiana3
 Zmiana06
-Zmiana09
+Zmiana07
+Zmiana08
+Zmiana10
